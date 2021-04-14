@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t91ndYeXfCPWvQskJObwPvIgNRvyIm6UhSI+dT8s/0Tlz7tNMyEtyNHEk6XELIz54M7SSXW44FUKpdkmyGP5AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rachel\\source\\repos\\pong\\pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rachel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
